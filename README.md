@@ -2,9 +2,9 @@
 
 ## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviMorales&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMorales&layout=compact&theme=transparent)
 
-- 🌱 Estudando HTML, CSS e JavaScript
-- 👨‍💻 Estou sempre tendo novas ideias
-- ♟️ Curto jogar um Xadrez, me adiciona lá
+- 🌱 Estudando HTML, CSS e JavaScript;
+- 👨‍💻 Estou sempre tendo novas ideias;
+- ♟️ Curto jogar um Xadrez, me adiciona lá;
   - https://friend.chess.com/V3Aee 
 
 <div style="display: inline_block"><br>
